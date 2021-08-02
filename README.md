@@ -1,16 +1,13 @@
-<img src="https://www.codewars.com/users/Maxybel/badges/large">
+# Hi, I am Max 👋🏻👨🏻‍💻
+##### Front End Developer and UX Designer from Barcelona, Spain
 
-<!--
-**BelkinMax/BelkinMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://hdwallpaperim.com/wp-content/uploads/2017/08/31/154406-blurred-gradient.jpg" width="100%" height="100">
 
-Here are some ideas to get you started:
+I love the logic and structure of coding and always strive to write elegant and efficient code. I also enjoy taking complex problems and turning them into simple and beautiful interface designs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [x] HTML/CSS
+- [x] JavaScript
+- [x] TypeScript
+- [x] Vue js
+- [x] Nuxt js
+- [x] Kotlin
