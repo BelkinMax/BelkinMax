@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Max 👋🏻👨🏻‍💻</h1><br>
 
 <a href="https://www.linkedin.com/in/maxbelkin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWSw8liJZcPOI" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></img></a>
+<a href="https://open.spotify.com/playlist/5rLukU6OZxm1YZAZ9bJXoq?si=c0ffdd80f90f4020" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></img></a>
 
 I love the logic and structure of coding and always strive to write elegant and efficient code. I also enjoy taking complex problems and turning them into simple and beautiful interface designs.
 
