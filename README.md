@@ -11,7 +11,9 @@ import Vue from 'vue'
 
 export default Vue.extend({
   data() {
-    title: "Front End Developer and UX Designer from Barcelona, Spain"
+    return {
+      title: "Full Stack Developer and UX Designer from Barcelona, Spain"
+    }
   }
 })
 </script>
