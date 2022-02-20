@@ -6,17 +6,7 @@
 I love the logic and structure of coding and always strive to write elegant and efficient code. I also enjoy taking complex problems and turning them into simple and beautiful interface designs.
 
 ```
-<script lang="ts">
-import Vue from 'vue'
-
-export default Vue.extend({
-  data() {
-    return {
-      title: "Full Stack Developer and UX Designer from Barcelona, Spain"
-    }
-  }
-})
-</script>
+title: "Full Stack Developer and UX Designer from Barcelona, Spain"
 ```
 
 ### Skills
