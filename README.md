@@ -31,7 +31,4 @@ title: "Full Stack Developer and UX Designer from Barcelona, Spain"
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=whit"/>
 </div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BelkinMax&theme=blue-green)
