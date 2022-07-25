@@ -6,7 +6,7 @@
 I love the logic and structure of coding and always strive to write elegant and efficient code. I also enjoy taking complex problems and turning them into simple and beautiful interface designs.
 
 ```
-title: "Full Stack Developer and UX Designer from Barcelona, Spain"
+title: "Full Stack Dev"
 ```
 
 ### Skills
